@@ -1,1 +1,6 @@
 hi 
+
+git pull is combination of two sub commands
+git fetch and git merge 
+
+git fetch: retrives new commit 
