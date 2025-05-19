@@ -1,6 +1,0 @@
-Git pull : combination of 2 sub commands 
-Git fetch + git merge
-
-Git fetch : retrieves new commits from the remote repo without merging changes to the local repo 
-Git merge : updates the local repo with the new commits from the remote repo 
-Git clone : creates a local copy from the remote repo
